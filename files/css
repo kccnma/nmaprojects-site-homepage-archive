@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(https://web.archive.org/web/20220419012940im_/https://fonts.gstatic.com/s/jost/v12/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNIg.woff2) format('woff2');
+}
+
+/*
+     FILE ARCHIVED ON 01:29:40 Apr 19, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:06:15 Aug 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.131
+  exclusion.robots: 0.038
+  exclusion.robots.policy: 0.018
+  esindex: 0.019
+  cdx.remote: 20.426
+  LoadShardBlock: 74.907 (3)
+  PetaboxLoader3.datanode: 113.993 (5)
+  load_resource: 238.532
+  PetaboxLoader3.resolve: 184.129
+  loaddict: 35.539
+*/

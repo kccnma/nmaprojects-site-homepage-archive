@@ -1,0 +1,156 @@
+p {
+	max-width: 38em;
+}
+
+/* LOFI WREFRME CSS 
+.ast-container {
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border:solid 2px rgba(0, 0, 0, .5);
+	background-color: rgba(0,0,0,.05) !important;
+	margin: 1em auto;
+	padding: 1em;
+}
+.site-header {
+	max-width: 1240px;
+	margin: 1em auto;
+}
+.ast-small-footer {
+	border: none;
+}
+
+img {
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border:solid 2px rgba(0, 0, 0, .5);
+	background-color: rgba(0,0,0,.05) !important;
+}
+
+.ultp-block-content-wrap {
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border:solid 2px rgba(0, 0, 0, .5);
+}
+
+*/
+
+.ultp-block-content-wrap img {
+	border: none;
+}
+
+.search-filter-results {
+	display: grid;
+	grid-template-columns: repeat(4,1fr);
+	grid-gap: 10px;
+}
+
+.search-filter-results .sf-top-stuff,
+.search-filter-results .sf-bottom-stuff,
+.search-filter-results .sf-meta-stuff
+{
+	display: none;
+}
+
+
+.search-filter-results .sf-item {
+/* 	max-width: 24%; */
+/* 	margin-bottom: 1%; */
+/* 	border: 1px solid red; */
+/* 	border-radius: 10px; */
+/* 	background-color: rgba(0,0,0,.1); */
+}
+
+.search-filter-results .sf-item {
+	height: 100px;
+/* 	background-color: rgba(0,0,0,.1); */
+	overflow: hidden;
+	position: relative;
+} 
+
+.search-filter-results img {
+	display: block;
+}
+
+
+.search-filter-results h2 {
+	font-size: .8em;
+	font-weight: bold;
+	position: absolute;
+	margin: 0;
+	bottom: 0;
+	padding: 5px;
+/* 	display: none; */
+}
+
+
+.search-filter-results h2 a {
+	color: white;
+	background: black;
+	display: inline-block;
+	padding: 2px 5px;
+}
+
+/* ARCHIVE PAGES */
+.archive .ast-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+.archive article {
+	width: 25%;
+	float: none;
+}
+
+.archive article .entry-content, 
+.archive article .entry-meta {
+	display: none;
+}
+.archive article .blog-layout-1 {
+	border: none;
+}
+
+.archive article .post-thumb {
+	max-height: 135px;
+	overflow: hidden;
+	border: 1px solid rgba(0,0,0,.1);
+	margin-bottom: .5em;
+}
+
+.archive article h2 {
+	font-size: 1em;
+}
+
+.archive.category-student article .post-thumb {
+    max-height: 100%;
+    border-radius: 100%;
+    border: none;
+}
+
+.archive.category-student article h2 {
+	text-align: center;
+}
+
+.searchandfilter ul li li {
+    padding: 0;
+}
+
+.searchandfilter h4 {
+	font-weight: 700;
+}
+/*
+     FILE ARCHIVED ON 01:29:56 Apr 19, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:06:16 Aug 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.808
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.015
+  esindex: 0.016
+  cdx.remote: 24.531
+  LoadShardBlock: 47.852 (3)
+  PetaboxLoader3.datanode: 105.068 (5)
+  load_resource: 165.678
+  PetaboxLoader3.resolve: 100.141
+  loaddict: 37.226
+*/
